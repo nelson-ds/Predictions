@@ -1,5 +1,5 @@
 ***** Predictions using Statistical Models *****
-***** Developed by Nelson Dsouza *****
+***** Created by Nelson Dsouza *****
 ***** December@2015 *****
 ____________________________________________________________________________________________________________________________
 
