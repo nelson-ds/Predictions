@@ -1,7 +1,7 @@
 ***** Predictions using Statistical Models *****
 ***** Created by Nelson Dsouza *****
 ***** December@2015 *****
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 ***Description***
 
@@ -19,12 +19,12 @@ I have created and compared multiple statistical models in order to arrive at th
 1. These predictions are ONLY valid in the context of the datasets I have analyzed here and SHOULD NOT be extended the entire domain.
 2. I have done the research and predictions listed here as part of course work for Data Science (Autumn 2015) at the University of Washington.
 To start off, let us load the required libraries:
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Acknowledgement ***
 
 My professor from the University of Washington, Emma Spiro(espiro@uw.edu) for guidance and support
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Contact ***
 
