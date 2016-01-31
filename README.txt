@@ -9,7 +9,7 @@ There are 4 researches and corresponding predictions which I have worked on base
 
 1. Prediction of having marriage affair using Fair's Affairs dataset.
 2. Prediction of murder rates across the USA using internal R dataset for States.
-3. Prediction of getting Breast Cancer using Wisconsin Breast Cancer Dataset.
+3. Prediction of getting breast cancer using Wisconsin breast cancer dataset.
 4. Prediction of car milage using internal R dataset for Auto.
 
 I have created and compared multiple statistical models in order to arrive at the best statistical model for prediction. I have also done data exploration and answered many research questions along the way.
